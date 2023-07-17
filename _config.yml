@@ -25,7 +25,7 @@ url: "https://mapleservice.ca" # the base hostname & protocol for your site, e.g
 github_username:  stelee410
 facebook_username:  "stephen.liy"
 twitter_username:  I don't use Twitter
-google_analytics_tracking_id: UA-129738661-1
+google_analytics_tracking_id: G-9809HV5ENX
 # Build settings
 markdown: kramdown
 theme: minima
